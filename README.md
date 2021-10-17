@@ -1,9 +1,10 @@
 # Welcome to my profile!
-My name is Zack but you can call me "Z" or "Apraxed" or "A"
+My name is Zack but you can call me "Z" or "Apraxed" or "Prax"
 
 Things I'm working on
 -
 - I am currently in school, I'm also learning how to create a website at the same time
+- I am making a discord bot named SCP-079, [Click this to join the discord sever](https://discord.gg/xDJQR58vgf)
 
 Some info about me
 -
