@@ -13,6 +13,6 @@ Some info about me
 
 Social Medias
 -
-- Discord: Apraxed#9814
+- Discord: Zаck#9814
 - Instagram: [@Aprax3d](https://www.instagram.com/aprax3d/)
 - Twitter: [@Aprax3d](https://www.twitter.com/Aprax3d)
