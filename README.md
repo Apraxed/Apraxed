@@ -6,7 +6,7 @@ I do not use github often for public repos anymore, more as backup storage. You 
 
 I do Roblox Game Moderation on the side. (if you want to hire me for some reason click [here](https://talent.roblox.com/creators/191641041))
 
-I make Roblox games on the side occasionally
+I make Roblox games on the side occasionally (you can find some of my assets [here](https://github.com/Apraxed/ApraxRobloxModules)
 
 -------------
 Social Medias
@@ -18,3 +18,19 @@ Social Medias
 - If you want to send me an email you can email me @ `aprax3d@gmail.com` 
 
 **more coming soon**
+
+
+-------------
+Donations!
+-
+
+I am always accepting donations. I don't care how much you donate (if you donate at all) I just put this here for the people who want to help someone out 
+
+| Crypto     |                  Address                   | FIOHandel   |
+|------------|--------------------------------------------|-------------|
+| BTC        | 34Cd3RD1WjTwWYFTDbqbmer8qJPHmFuWDW         | aprax@opera |
+| ETH        | 0x4b005185f94C6d50c82241721ad6aA2037e19784 | aprax@opera |
+| USDC (ETH) | 0x4b005185f94C6d50c82241721ad6aA2037e19784 | aprax@opera |
+| LTC        | LeKu7o2NfU5UvZZdvz2MqBPVxPwVSv12sE         | nil         |
+
+[PayPal](https://paypal.me/aprax3d)
