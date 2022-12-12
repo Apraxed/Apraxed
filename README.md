@@ -4,13 +4,24 @@ Hi I'm Zack! A 15 y/o computer nerd who took up programming as a hobby out of bo
 
 Current Projects:
 
-> Equaled Studios 
->> [Roblox Group](rblx.social/16156727)
+> Equaled Studios
+>> Role: Owner
 >>
 >> [Discord Server](https://discord.gg/AeDQm7Vu7M)
+>>
+>> [Roblox Group](rblx.social/16156727)
 
 > Project Helix
+>> Role: [RESTRICTED]
+>>
 >> {No links as-of now}
+
+> Big Bruh Games
+>> Role: Head of Moderation
+>>
+>> [Discord Server](https://discord.gg/bigbruhgames)
+>>
+>> [Roblox Group](https://rblx.social/6255283)
 
 I don't care about pronouns or sexuality that much but I know some people do so..
 
@@ -18,7 +29,6 @@ I don't care about pronouns or sexuality that much but I know some people do so.
 > Sexuality: Pansexual
 > 
 > Pronouns: He/Him
-
 
 Now that we have the basic introduction done let's move on
 
